@@ -1,0 +1,36 @@
+HTML important concepts
+-------------------------------------
+DOCTYPE
+HTML Attributes
+Text Formatting elements
+Including Styles
+Anchor tag
+Images
+Tables
+Lists
+Block and Inline Elements
+Class Attribute
+id Attribute
+Iframes
+
+
+
+
+
+
+------------------------------------------------
+Including JavaScript
+File Paths
+HTML Entities
+HTML Encoding (Character Sets)
+URL Encoding
+Form Element
+GET vs POST
+Form Elements
+Input Element
+Input Element Attributes
+Other Form Elements like select, textarea etc...
+HTML5
+APIs
+Browser Support
+Semantic Elements

@@ -1,0 +1,121 @@
+Javascript
+---------------
+Variables--->let,var,const
+Datatypes--->Number,Boolean,String,Undefined,NULL
+typeof operator
+Numbers
+NaN
+isNaN
+parseInt
+parseFloat
+Math.floor
+Math.ceil
+Math.round
+Math.random
+toFixed
+Strings
+length
+charAt
+toUpperCase
+toLowerCase
+indexOf
+substring
+substr
+slice
+Type Conversions
+To string
+To number
+To boolean
+JSON.parse
+JSON.stringify
+----------------------------
+Operators and Loops
+Functions
+Named function
+Anonymous function
+Callback function
+Self invoked function
+Constructor function
+instanceof operator
+------
+Arrays
+new Array()
+length
+pop
+push
+shift
+unshift
+join
+split
+delete
+splice
+forEach
+map
+filter
+reverse
+sort
+Objects
+Object creation
+Object.keys()
+Object.values()
+JSON
+Window Object
+'this' keyword
+call, apply and bind methods
+Prototypal inheritance
+Closures
+Document Object Model (DOM)
+Document Traversing
+document.getElementById
+getElementsByTagName
+getElementsByClassName
+getElementsByName
+querySelector
+querySelectorAll
+Element Attribute VS Element Property
+Events
+Handle events with element attribute
+Handle events with DOM-object property
+Handle events using addEventListener
+Keyboard events, Mouse events, window events
+event.preventDefault()
+event.stopPropagation()
+AJAX
+XMLHttpRequest
+localStorage
+setItem()
+getItem()
+removeItem()
+Exceptions and Error handling
+Regular Expression methods
+Timing Functions
+setTimeout
+clearTimeOut
+setInterval
+clearInterval
+Node Package Manager(NPM)
+ES6 features
+let
+var vs let
+Hoisting concept
+Block level scoping
+const
+Block level scoping
+Reference change VS Value change
+Destructuring
+Array destructuring
+Object destructuring
+Destructuring in function params
+Default parameters
+REST parameters
+Spread operator
+Template Literals
+Arrow Functions
+Classes
+Getters and Setters
+Inheretance
+Super keyword
+Overrides
+Modules
+Object Enhancements
+Array Enhancements

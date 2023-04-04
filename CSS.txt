@@ -1,0 +1,85 @@
+CSS
+----
+Selectors
+element Selector
+id Selector
+class Selector
+grouping Selectors
+Cascading Order
+Colors
+Vendor Prefixes
+Backgrounds
+Borders
+Margins
+Padding
+Width and Height
+Box Model
+Outline
+Text Formatting
+Fonts
+Lists
+Positions
+Overflow
+float and clear
+clearfix
+Horizontal & Vertical Align
+CSS Selector Combinators
+descendant selector (space)
+child selector (>)
+adjacent sibling selector (+)
+general sibling selector (~)
+Pseudo-classes
+Pseudo-elements
+Opacity / Transparency
+Attribute Selectors
+CSS Units
+CSS Specificity
+Gradients
+Shadow Effects
+text-shadow
+box-shadow
+calc() Function
+Transitions
+Animations
+Flexbox
+flex-direction
+flex-wrap
+flex-flow
+justify-content
+align-items
+align-content
+order
+flex-grow
+flex-shrink
+flex-basis
+flex
+align-self
+Media Queries & Responsive Web Design(RWD)
+Media types
+Media Queries
+Responsive Web Design
+Viewport meta tag
+Icons
+Jruler
+Free website Templates
+SASS
+Installation
+Variables
+Nesting
+Partials and Import
+Mixins
+Extend/Inheritance
+Operators
+.sass VS .scss
+Bootstrap
+-----------
+Installation
+Responsive meta tag
+Mobile first approch
+Containers
+Responsive breakpoints
+Grid system
+No gutters class
+Offsetting columns
+Components
+Free Bootstrap templates
