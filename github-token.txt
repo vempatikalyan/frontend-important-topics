@@ -3,3 +3,5 @@ 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
 git clone https://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@github.com/vempatikalyan/repo.git
 
 git clone https://vempatikalyan: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@github.com/vempatikalyan/notes.git
+
+git password - Venkata@28
